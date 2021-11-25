@@ -183,18 +183,25 @@ hr {
     font-weight: 800;
     padding-top: 0.5%;
 }
- h3 .portfolio__item {
-    font-style: semibold;
-    font-size: .8rem;
-    font-weight: 900;
- }
+
 .portfolio__about {
     outline: 2px solid rgb(112, 216, 147);
     width: 25%;
     margin-left: 50%;
     padding-left: 1%;
     display: flex;
-  
     justify-content: space-between;
     align-items: flex-end;
+}
+
+.photo {
+    width: 80%;
+    margin-left: 10%;
+}
+
+img {
+    width: 26%;
+    margin-top: 5%;
+    margin-left: ;
+    padding-left: 1%;
 }
