@@ -137,19 +137,26 @@ h2 {
     margin-top: 2.5%;
     margin-bottom: 3%;
     /*font-family: 'M PLUS 2',sans-serif;*/
-    font-family: 'Noto Sans',
-    sans-serif;
+    font-family: 'Noto Sans',sans-serif;
     letter-spacing: 1px;
 }
 
 p {
     margin-left: 3%;
-    padding-bottom: ;
     color: #8b8a8a;
     padding-left: 5%;
     font-size: .7rem;
     line-height: 2;
     font-family: 'Roboto', sans-serif;
     letter-spacing: -0.004em;
+}
+
+hr {
+    border: none;/* Убираем границу */
+    background-color: #e2e2e2; /* Цвет линии */
+    height: 1px;/* Толщина линии */
+    width: 84%;/* Ширина линии */
+    margin-left: 12%;
+    margin-top: 7%;
 }
     
