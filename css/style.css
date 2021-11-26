@@ -176,8 +176,7 @@ hr {
     width: 25%;
     display: flex;
     justify-content: space-between;
-    font-family: 'Prata',
-    serif;
+    font-family: 'Prata', serif;
     font-style: bold;
     font-size: .8rem;
     font-weight: 800;
@@ -220,4 +219,23 @@ img {
 a {
     color: #fff;
     font-family: 'Abril Fatface',cursive;
+}
+
+h4 {
+    text-align: center;
+    margin-right: 17%;
+    margin-top: 1.3%;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+}
+
+.container__item {
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 12%;
+    width: 55%;
+}
+
+.container__description {
+    margin-right: 24%;
 }
